@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Forward</string>
+    <string name="speak_button">Start Dictating</string>
+    <string name="default_host_name">0.0.0.0:0000</string>
+    <string name="host_button">Set Destination</string>
+    <string name="close">Close</string>
+    <string name="bad_host">Destination must be in the form &quot;host:port&quot;.</string>
+    <string name="unknown_host">Server host does not exist.</string>
+    <string name="bad_port">The destination port must be an integer</string>
+    <string name="no_connection">The server didn\'t accept the connection.</string>
+    <string name="default_error">There was an error when trying to connect.</string>
+</resources>

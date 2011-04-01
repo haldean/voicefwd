@@ -1,0 +1,15 @@
+*.class
+*#*#
+*.html
+doc
+*~
+*.aux
+*.log
+*.toc
+*.dvi
+*.dex
+*.apk
+video
+VoiceForward/bin
+pidlog.txt
+debug.txt
